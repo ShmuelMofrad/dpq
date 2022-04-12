@@ -8,7 +8,14 @@ The DPQ is a small project for [RESTful-API](https://en.wikipedia.org/wiki/Repre
 The DPQ has Agile project management with Scrum.
 
 - [The Project Definition Document](./docs/DPQ_Project_Definition.md)
+- [Project refinement](./docs/DPQ-Refinement.md)
 
 ## Scrum-Board
 
 [The DPQ Scrum board](https://github.com/users/ShmuelMofrad/projects/4)
+
+
+## Issues
+
+ - [Open](https://github.com/ShmuelMofrad/dpq/issues)
+ - [Closed](https://github.com/ShmuelMofrad/dpq/issues?q=is%3Aissue+is%3Aclosed)
